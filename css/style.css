@@ -1,0 +1,29 @@
+body {
+    background-color: #DCD7D7;
+    margin: 0;
+    color: #333;
+}
+
+.flexBox1 {
+    display: flex;
+    background-color: #d0f0c0;
+    justify-content: flex-end;
+    height: 40px;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-right: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header1 {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+}
